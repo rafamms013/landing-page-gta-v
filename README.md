@@ -7,6 +7,10 @@ Projeto inspirado na atmosfera eletrizante de Grand Theft Auto V, desenvolvido d
 Esta landing page traz a essência do mundo caótico e envolvente de GTA V. Seja bem-vindo à Los Santos! Explore as funcionalidades e mergulhe na vibe única deste jogo icônico.
 Para mais informações oficiais do jogo acesse o site oficial no link: https://www.rockstargames.com/br/gta-v 
 
+## Demonstração
+
+Para visualizar a pagina pronta acesse o link: https://rafamms013.github.io/landing-page-gta-v/
+
 
 ## Tecnologias Utilizadas
 
